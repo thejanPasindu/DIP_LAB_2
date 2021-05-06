@@ -1,0 +1,4 @@
+﻿  ConsoleApplication1.cpp
+E:\ACA\L04S01\DIP\LAB\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(33,26): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+E:\ACA\L04S01\DIP\LAB\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(84,42): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  ConsoleApplication1.vcxproj -> E:\ACA\L04S01\DIP\LAB\ConsoleApplication1\x64\Debug\ConsoleApplication1.exe
